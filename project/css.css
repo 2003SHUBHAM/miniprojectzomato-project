@@ -1,0 +1,148 @@
+.grill-cantainer {
+    background-color: black;
+    background-size: cover;
+    height: 250vh;
+}
+
+.grill-heading-card {
+    background-color: orange;
+    background-size: cover;
+    border-radius: 20px;
+    margin: 10px;
+}
+
+.grill-heading {
+    color: #114438;
+    font-family: "Roboto";
+    font-size: 45px;
+    font-weight: bold;
+    margin: 15px;
+}
+
+.grill-locastion {
+    height: 9vh;
+    border-radius: 20px;
+}
+
+
+.grill-sarch {
+    margin: 20px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+
+form.example input[type=text] {
+    padding: 10px;
+    font-size: 17px;
+    border: 1px solid grey;
+    float: left;
+    width: 80%;
+    background: #f1f1f1;
+}
+
+
+form.example button {
+    float: left;
+    width: 20%;
+    padding: 10px;
+    background: #2196F3;
+    color: white;
+    font-size: 17px;
+    border: 1px solid rgb(13, 11, 11);
+    border-left: none;
+    cursor: pointer;
+}
+
+form.example button:hover {
+    background: #0b7dda;
+}
+
+form.example::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.inspriration-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 30px;
+    padding: 10px;
+}
+
+.inspriration-image {
+    height: 30vh;
+    border-radius: 10px;
+}
+
+.inspriration-heading-image {
+    color: white;
+    font-size: 15px;
+    font-family: "Roboto";
+}
+
+.inspriration-heading-space {
+    padding: 10px;
+}
+
+.best-food-image {
+    height: 30vh;
+    border-radius: 10px;
+    border-radius: 10px;
+}
+
+.best-food-heading {
+    color: black;
+    font-size: 25px;
+    font-family: "Roboto";
+}
+
+.best-food-card {
+    background-color: white;
+    background-size: cover;
+    border-radius: 10px;
+    border-radius: 10px;
+    width: 100vh;
+    padding: 10px;
+}
+
+.best-food-paragraph {
+    color: #02151f;
+    font-size: 15px;
+    font-family: "Roboto";
+}
+
+.best-food-rs {
+    font-weight: bold;
+}
+
+.pizza-cantainer {
+    background-color: rgb(244, 240, 240);
+    background-size: cover;
+    height: 150vh;
+}
+
+.confarmation {
+    background-color: white;
+    background-size: cover;
+    height: 100vh;
+}
+
+.order {
+    font-style: solid;
+    font-family: "Bree Serif";
+    font-size: 60px;
+    font-weight: bolder;
+    color: #0b2595;
+    text-align-last: center;
+    text-decoration: underline;
+}
+
+.best-cantainer {
+    background-color: rgb(125, 19, 19);
+    background-size: cover;
+    height: 100vh;
+}
